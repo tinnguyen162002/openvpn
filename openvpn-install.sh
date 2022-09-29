@@ -1306,7 +1306,7 @@ function removeOpenVPN() {
 function manageMenu() {
 	echo "-----------------------------------------------------------------"
 	echo "Chào mừng bạn đến với hệ thống OpenVPN server!"
-	echo "Website của chúng tôi là: system.info.vn "
+	echo "Website của chúng tôi là: system.info.vn (Tín Nguyễn sài ké!)"
 	echo "-----------------------------------------------------------------"
 	echo ""
 	echo "OpenVPN server đã được cài đặt"
